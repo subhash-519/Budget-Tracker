@@ -57,10 +57,10 @@ Follow these steps to run the project locally 👇
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/budgetwise.git
+git clone https://github.com/subhash-519/Budget-Tracker.git
 
 # Navigate to the project directory
-cd budgetwise
+cd budge-tracker
 
 # Install dependencies
 npm install
